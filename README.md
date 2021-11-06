@@ -1,6 +1,6 @@
 # qr_scanner
 
-A flutter package to add qr scan functionality usin [google_ml_kit] and
+A flutter package to add qr scan functionality using [google_ml_kit] and
 [camera] plugins.
 
 ## Getting Started
